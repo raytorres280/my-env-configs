@@ -1,0 +1,11 @@
+
+# ignore everything
+*
+
+# except
+!.config
+!.gitignore
+!.zshrc
+!.bashrc
+!/.config/starship.toml
+
