@@ -8,4 +8,4 @@
 !.zshrc
 !.bashrc
 !/.config/starship.toml
-
+!.tmux.conf
